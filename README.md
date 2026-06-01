@@ -107,12 +107,6 @@ henüz ayrılmamış olmalarına rağmen yüksek riskli müşteri olarak tespit 
 
 Bu yaklaşım sayesinde hem ayrılmış müşteriler hem de gelecekte ayrılma ihtimali yüksek müşteriler belirlenebilmektedir.
 
-## Çalıştırma
-
-1. Google Colab ortamında notebook dosyasını açın.
-2. Hücreleri sırasıyla çalıştırın.
-3. Program müşteri analiz raporunu ve churn değerlendirmelerini ekrana yazdıracaktır.
-
 ## Dosyalar
 
 * Python Dönem Ödevi Notebook Dosyası (.ipynb)
@@ -122,8 +116,3 @@ Bu yaklaşım sayesinde hem ayrılmış müşteriler hem de gelecekte ayrılma i
 
 Abdullah Sancak
 
-## Ders Bilgisi
-
-Python Programlama Dönem Ödevi
-
-2025-2026 Eğitim Öğretim Yılı
